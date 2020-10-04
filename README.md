@@ -3,6 +3,7 @@
 ## 2020夏令营总结贴
 
 - @[ModestYjx](https://blog.csdn.net/qq_40092110)的[保研经验贴](https://blog.csdn.net/qq_40092110/category_10348093.html)
+- @[KID22](https://www.zhihu.com/people/kid-22-32-56)的[计算机保研](https://www.zhihu.com/column/c_1293286348367900672)
 
 ## 2019夏令营总结贴
 
